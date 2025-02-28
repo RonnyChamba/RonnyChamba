@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <a  href="https://www.linkedin.com/company/gizlocorp/mycompany/">Gizlo<a/> as Java Developer
 - 👯 I’m looking to collaborate on <a href ="https://github.com/innovasoft-01">Plavit-v2.0<a/>
-- 🌱 I’m currently learning **Microservices**
-- 📧 ronnychamba96.jobs.gmail.com
+- 🌱 I’m currently learning **AWS**
+- 📧 ronnychamba96gmail.com
 
 
 <p></p>
