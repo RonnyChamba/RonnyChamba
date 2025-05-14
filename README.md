@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">A passionate backend developer from Ecuador 🇪🇨 </h3>
 
-- 🔭 I’m currently working on <a  href="https://www.linkedin.com/company/nexti-business-solutions/">Nexti Solutions<a/> as Java Developer
+- 🔭 I’m currently working on <a  href="https://www.linkedin.com/company/integrity-solutions-is-/posts/?feedView=all">Integrity Solutions<a/> as Java Developer
 - 👯 I’m looking to collaborate on <a href ="https://github.com/innovasoft-01">Plavit-v2.0<a/>
 - 🌱 I’m currently learning **AWS**
 - 📧 ronnychamba96gmail.com
